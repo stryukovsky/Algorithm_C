@@ -1,0 +1,3 @@
+/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles/Algorithms_C.dir
+/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles/edit_cache.dir

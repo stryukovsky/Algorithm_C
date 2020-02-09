@@ -1,0 +1,4 @@
+/home/dmitry/Programs/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/dmitry/data/Projects/GitHub/Algorithms_C
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug

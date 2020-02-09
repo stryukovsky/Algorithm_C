@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Algorithms_C.dir/main.c.o  -o Algorithms_C 
