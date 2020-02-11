@@ -1,4 +1,4 @@
-# Install script for directory: /media/dmitry/data/Projects/GitHub/Algorithms_C
+# Install script for directory: /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

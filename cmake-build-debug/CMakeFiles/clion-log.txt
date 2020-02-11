@@ -1,4 +1,11 @@
-/home/dmitry/Programs/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/dmitry/data/Projects/GitHub/Algorithms_C
+/home/dmitry/Programs/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C
+-- The C compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug
+-- Build files have been written to: /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug

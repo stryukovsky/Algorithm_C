@@ -14,7 +14,7 @@ void insert(dtype* arr, int pos, dtype value)
     arr[i + 1] = value;
 }
 
-void sort(dtype* array, int length)
+void insert_sort(dtype* array, int length)
 {
     for(int i = 1; i < length; i++)
     {
