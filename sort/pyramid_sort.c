@@ -2,7 +2,7 @@
 // Created by dmitry on 09.02.2020.
 //
 
-typedef int dtype;
+#include "../data_type.h"
 
 void heapify(dtype* arr, int idx, int n)
 {

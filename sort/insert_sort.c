@@ -1,7 +1,8 @@
 //
 // Created by dmitry on 09.02.2020.
 //
-typedef int dtype;
+#include "../data_type.h"
+
 
 void insert(dtype* arr, int pos, dtype value)
 {

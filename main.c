@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "data_type.h"
 #include "sort/sort.h"
 #include "search/search.h"
 

@@ -2,7 +2,7 @@
 // Created by dmitry on 11.02.2020.
 //
 
-#include "data_type.h"
+#include "../data_type.h"
 
 int binary_search(const dtype* arr, int val, int n)
 {

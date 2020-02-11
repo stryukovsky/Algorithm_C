@@ -2,7 +2,8 @@
 // Created by dmitry on 09.02.2020.
 //
 
-typedef int dtype;
+#include "../data_type.h"
+
 
 /*
  * Partition of Lomuto is used as default. (increasing/decreasing of indices where array is already sorted.
