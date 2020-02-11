@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/main.c" "/media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles/Algorithms_C.dir/main.c.o"
+  "/media/dmitry/data/Projects/GitHub/Algorithms_C/main.c" "/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles/Algorithms_C.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "sort/sort.h"
+#include "search/search.h"
 
 int main() {
     printf("Hello, World!\n");

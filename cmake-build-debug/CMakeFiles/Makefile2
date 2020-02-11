@@ -44,10 +44,10 @@ RM = /home/dmitry/Programs/clion-2019.3.3/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C
+CMAKE_SOURCE_DIR = /media/dmitry/data/Projects/GitHub/Algorithms_C
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug
+CMAKE_BINARY_DIR = /media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/Algorithms_C.dir/all:
 	$(MAKE) -f CMakeFiles/Algorithms_C.dir/build.make CMakeFiles/Algorithms_C.dir/depend
 	$(MAKE) -f CMakeFiles/Algorithms_C.dir/build.make CMakeFiles/Algorithms_C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Algorithms_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Algorithms_C"
 .PHONY : CMakeFiles/Algorithms_C.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Algorithms_C.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Algorithms_C.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/dmitry/e0fb5b9b-ce4c-49cd-a627-3ddab6f459a7/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/dmitry/data/Projects/GitHub/Algorithms_C/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Algorithms_C.dir/rule
 
 # Convenience name for target.
