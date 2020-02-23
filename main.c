@@ -2,13 +2,12 @@
 #include "data_type.h"
 #include "sort/sort.h"
 #include "search/search.h"
+#include "linked_list/linked_list.h"
 
 int main() {
-    printf("Hello, World!\n");
-    int array[] = {1, 2, 10, 4};
-    quicksort(array, 0, 3);
-    for (int i = 0; i < 4; ++i) {
-        printf("%d\n", array[i]);
-    }
+    dtype arr[] = {1, 2,3, 4, 5, 6, 7, 8};
+    if(hash_search(arr, 8, 3))
+        printf("HEllo");
+
     return 0;
 }

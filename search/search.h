@@ -7,4 +7,8 @@
 
 #include "linear_search.c"
 #include "binary_search.c"
+#include "hash_search.c"
+#include "filter_of_bloom.c"
+#include "binary_search_tree.c"
+
 #endif //ALGORITHMS_C_SEARCH_H
