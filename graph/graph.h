@@ -7,6 +7,8 @@
 
 #include "stdlib.h"
 #include "stdbool.h"
+
+
 /*
  * This implementation of Graph is quite simple and uses edges instead of, for example, vectors*/
 
@@ -40,5 +42,6 @@ void graph_add_edge(Graph *g, int x, int y, int weight)
 }
 #include "dfs.c"
 #include "bfs.c"
+#include "dijkstra.c"
 
 #endif //ALGORITHMS_C_GRAPH_H
